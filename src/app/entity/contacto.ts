@@ -1,0 +1,1 @@
+export interface Contacto {name : string, email : string, lastname : string, subject : string};
